@@ -1,0 +1,670 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\github\\TSport_v2\\TSportApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{036EFBA7-CAF7-4A69-9B7C-AC6D10B836F5}|TSport.Api.BusinessLogic\\TSport.Api.BusinessLogic.csproj|D:\\github\\TSport_v2\\TSportApi\\tsport.api.businesslogic\\interfaces\\iservicefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{036EFBA7-CAF7-4A69-9B7C-AC6D10B836F5}|TSport.Api.BusinessLogic\\TSport.Api.BusinessLogic.csproj|solutionrelative:tsport.api.businesslogic\\interfaces\\iservicefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{036EFBA7-CAF7-4A69-9B7C-AC6D10B836F5}|TSport.Api.BusinessLogic\\TSport.Api.BusinessLogic.csproj|D:\\github\\TSport_v2\\TSportApi\\tsport.api.businesslogic\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{036EFBA7-CAF7-4A69-9B7C-AC6D10B836F5}|TSport.Api.BusinessLogic\\TSport.Api.BusinessLogic.csproj|solutionrelative:tsport.api.businesslogic\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00010E8F-1305-452D-BCD0-05E973CD348D}|TSport.Api\\TSport.Api.csproj|D:\\github\\TSport_v2\\TSportApi\\tsport.api\\tsport.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{00010E8F-1305-452D-BCD0-05E973CD348D}|TSport.Api\\TSport.Api.csproj|solutionrelative:tsport.api\\tsport.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DD0EF8-0E1A-4D5D-96A1-AC72550CB532}|TSport.Api.DataAccess\\TSport.Api.DataAccess.csproj|d:\\github\\tsport_v2\\tsportapi\\tsport.api.dataaccess\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3DD0EF8-0E1A-4D5D-96A1-AC72550CB532}|TSport.Api.DataAccess\\TSport.Api.DataAccess.csproj|solutionrelative:tsport.api.dataaccess\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DD0EF8-0E1A-4D5D-96A1-AC72550CB532}|TSport.Api.DataAccess\\TSport.Api.DataAccess.csproj|D:\\github\\TSport_v2\\TSportApi\\tsport.api.dataaccess\\dtos\\cart\\getcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3DD0EF8-0E1A-4D5D-96A1-AC72550CB532}|TSport.Api.DataAccess\\TSport.Api.DataAccess.csproj|solutionrelative:tsport.api.dataaccess\\dtos\\cart\\getcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DD0EF8-0E1A-4D5D-96A1-AC72550CB532}|TSport.Api.DataAccess\\TSport.Api.DataAccess.csproj|D:\\github\\TSport_v2\\TSportApi\\tsport.api.dataaccess\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3DD0EF8-0E1A-4D5D-96A1-AC72550CB532}|TSport.Api.DataAccess\\TSport.Api.DataAccess.csproj|solutionrelative:tsport.api.dataaccess\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DD0EF8-0E1A-4D5D-96A1-AC72550CB532}|TSport.Api.DataAccess\\TSport.Api.DataAccess.csproj|D:\\github\\TSport_v2\\TSportApi\\tsport.api.dataaccess\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3DD0EF8-0E1A-4D5D-96A1-AC72550CB532}|TSport.Api.DataAccess\\TSport.Api.DataAccess.csproj|solutionrelative:tsport.api.dataaccess\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DD0EF8-0E1A-4D5D-96A1-AC72550CB532}|TSport.Api.DataAccess\\TSport.Api.DataAccess.csproj|D:\\github\\TSport_v2\\TSportApi\\tsport.api.dataaccess\\contexts\\tsportdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3DD0EF8-0E1A-4D5D-96A1-AC72550CB532}|TSport.Api.DataAccess\\TSport.Api.DataAccess.csproj|solutionrelative:tsport.api.dataaccess\\contexts\\tsportdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DD0EF8-0E1A-4D5D-96A1-AC72550CB532}|TSport.Api.DataAccess\\TSport.Api.DataAccess.csproj|D:\\github\\TSport_v2\\TSportApi\\tsport.api.dataaccess\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3DD0EF8-0E1A-4D5D-96A1-AC72550CB532}|TSport.Api.DataAccess\\TSport.Api.DataAccess.csproj|solutionrelative:tsport.api.dataaccess\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DD0EF8-0E1A-4D5D-96A1-AC72550CB532}|TSport.Api.DataAccess\\TSport.Api.DataAccess.csproj|D:\\github\\TSport_v2\\TSportApi\\tsport.api.dataaccess\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3DD0EF8-0E1A-4D5D-96A1-AC72550CB532}|TSport.Api.DataAccess\\TSport.Api.DataAccess.csproj|solutionrelative:tsport.api.dataaccess\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DD0EF8-0E1A-4D5D-96A1-AC72550CB532}|TSport.Api.DataAccess\\TSport.Api.DataAccess.csproj|D:\\github\\TSport_v2\\TSportApi\\tsport.api.dataaccess\\interfaces\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3DD0EF8-0E1A-4D5D-96A1-AC72550CB532}|TSport.Api.DataAccess\\TSport.Api.DataAccess.csproj|solutionrelative:tsport.api.dataaccess\\interfaces\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DD0EF8-0E1A-4D5D-96A1-AC72550CB532}|TSport.Api.DataAccess\\TSport.Api.DataAccess.csproj|D:\\github\\TSport_v2\\TSportApi\\tsport.api.dataaccess\\models\\shirtedition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3DD0EF8-0E1A-4D5D-96A1-AC72550CB532}|TSport.Api.DataAccess\\TSport.Api.DataAccess.csproj|solutionrelative:tsport.api.dataaccess\\models\\shirtedition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DD0EF8-0E1A-4D5D-96A1-AC72550CB532}|TSport.Api.DataAccess\\TSport.Api.DataAccess.csproj|D:\\github\\TSport_v2\\TSportApi\\tsport.api.dataaccess\\models\\shirt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3DD0EF8-0E1A-4D5D-96A1-AC72550CB532}|TSport.Api.DataAccess\\TSport.Api.DataAccess.csproj|solutionrelative:tsport.api.dataaccess\\models\\shirt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DD0EF8-0E1A-4D5D-96A1-AC72550CB532}|TSport.Api.DataAccess\\TSport.Api.DataAccess.csproj|D:\\github\\TSport_v2\\TSportApi\\tsport.api.dataaccess\\dtos\\auth\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3DD0EF8-0E1A-4D5D-96A1-AC72550CB532}|TSport.Api.DataAccess\\TSport.Api.DataAccess.csproj|solutionrelative:tsport.api.dataaccess\\dtos\\auth\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DD0EF8-0E1A-4D5D-96A1-AC72550CB532}|TSport.Api.DataAccess\\TSport.Api.DataAccess.csproj|D:\\github\\TSport_v2\\TSportApi\\tsport.api.dataaccess\\dtos\\accounts\\getaccountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3DD0EF8-0E1A-4D5D-96A1-AC72550CB532}|TSport.Api.DataAccess\\TSport.Api.DataAccess.csproj|solutionrelative:tsport.api.dataaccess\\dtos\\accounts\\getaccountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DD0EF8-0E1A-4D5D-96A1-AC72550CB532}|TSport.Api.DataAccess\\TSport.Api.DataAccess.csproj|D:\\github\\TSport_v2\\TSportApi\\tsport.api.dataaccess\\interfaces\\ishirtrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3DD0EF8-0E1A-4D5D-96A1-AC72550CB532}|TSport.Api.DataAccess\\TSport.Api.DataAccess.csproj|solutionrelative:tsport.api.dataaccess\\interfaces\\ishirtrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DD0EF8-0E1A-4D5D-96A1-AC72550CB532}|TSport.Api.DataAccess\\TSport.Api.DataAccess.csproj|D:\\github\\TSport_v2\\TSportApi\\tsport.api.dataaccess\\repositories\\accountrepositoy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3DD0EF8-0E1A-4D5D-96A1-AC72550CB532}|TSport.Api.DataAccess\\TSport.Api.DataAccess.csproj|solutionrelative:tsport.api.dataaccess\\repositories\\accountrepositoy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DD0EF8-0E1A-4D5D-96A1-AC72550CB532}|TSport.Api.DataAccess\\TSport.Api.DataAccess.csproj|D:\\github\\TSport_v2\\TSportApi\\tsport.api.dataaccess\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3DD0EF8-0E1A-4D5D-96A1-AC72550CB532}|TSport.Api.DataAccess\\TSport.Api.DataAccess.csproj|solutionrelative:tsport.api.dataaccess\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DD0EF8-0E1A-4D5D-96A1-AC72550CB532}|TSport.Api.DataAccess\\TSport.Api.DataAccess.csproj|D:\\github\\TSport_v2\\TSportApi\\tsport.api.dataaccess\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3DD0EF8-0E1A-4D5D-96A1-AC72550CB532}|TSport.Api.DataAccess\\TSport.Api.DataAccess.csproj|solutionrelative:tsport.api.dataaccess\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{036EFBA7-CAF7-4A69-9B7C-AC6D10B836F5}|TSport.Api.BusinessLogic\\TSport.Api.BusinessLogic.csproj|D:\\github\\TSport_v2\\TSportApi\\tsport.api.businesslogic\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{036EFBA7-CAF7-4A69-9B7C-AC6D10B836F5}|TSport.Api.BusinessLogic\\TSport.Api.BusinessLogic.csproj|solutionrelative:tsport.api.businesslogic\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{036EFBA7-CAF7-4A69-9B7C-AC6D10B836F5}|TSport.Api.BusinessLogic\\TSport.Api.BusinessLogic.csproj|D:\\github\\TSport_v2\\TSportApi\\tsport.api.businesslogic\\extensions\\iservicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{036EFBA7-CAF7-4A69-9B7C-AC6D10B836F5}|TSport.Api.BusinessLogic\\TSport.Api.BusinessLogic.csproj|solutionrelative:tsport.api.businesslogic\\extensions\\iservicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00010E8F-1305-452D-BCD0-05E973CD348D}|TSport.Api\\TSport.Api.csproj|D:\\github\\TSport_v2\\TSportApi\\tsport.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00010E8F-1305-452D-BCD0-05E973CD348D}|TSport.Api\\TSport.Api.csproj|solutionrelative:tsport.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DD0EF8-0E1A-4D5D-96A1-AC72550CB532}|TSport.Api.DataAccess\\TSport.Api.DataAccess.csproj|D:\\github\\TSport_v2\\TSportApi\\tsport.api.dataaccess\\repositories\\shirtrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3DD0EF8-0E1A-4D5D-96A1-AC72550CB532}|TSport.Api.DataAccess\\TSport.Api.DataAccess.csproj|solutionrelative:tsport.api.dataaccess\\repositories\\shirtrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DD0EF8-0E1A-4D5D-96A1-AC72550CB532}|TSport.Api.DataAccess\\TSport.Api.DataAccess.csproj|D:\\github\\TSport_v2\\TSportApi\\tsport.api.dataaccess\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3DD0EF8-0E1A-4D5D-96A1-AC72550CB532}|TSport.Api.DataAccess\\TSport.Api.DataAccess.csproj|solutionrelative:tsport.api.dataaccess\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DD0EF8-0E1A-4D5D-96A1-AC72550CB532}|TSport.Api.DataAccess\\TSport.Api.DataAccess.csproj|D:\\github\\TSport_v2\\TSportApi\\tsport.api.dataaccess\\extensions\\iservicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3DD0EF8-0E1A-4D5D-96A1-AC72550CB532}|TSport.Api.DataAccess\\TSport.Api.DataAccess.csproj|solutionrelative:tsport.api.dataaccess\\extensions\\iservicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{036EFBA7-CAF7-4A69-9B7C-AC6D10B836F5}|TSport.Api.BusinessLogic\\TSport.Api.BusinessLogic.csproj|D:\\github\\TSport_v2\\TSportApi\\tsport.api.businesslogic\\services\\shirtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{036EFBA7-CAF7-4A69-9B7C-AC6D10B836F5}|TSport.Api.BusinessLogic\\TSport.Api.BusinessLogic.csproj|solutionrelative:tsport.api.businesslogic\\services\\shirtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{036EFBA7-CAF7-4A69-9B7C-AC6D10B836F5}|TSport.Api.BusinessLogic\\TSport.Api.BusinessLogic.csproj|D:\\github\\TSport_v2\\TSportApi\\tsport.api.businesslogic\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{036EFBA7-CAF7-4A69-9B7C-AC6D10B836F5}|TSport.Api.BusinessLogic\\TSport.Api.BusinessLogic.csproj|solutionrelative:tsport.api.businesslogic\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00010E8F-1305-452D-BCD0-05E973CD348D}|TSport.Api\\TSport.Api.csproj|D:\\github\\TSport_v2\\TSportApi\\tsport.api\\middlewares\\globalexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00010E8F-1305-452D-BCD0-05E973CD348D}|TSport.Api\\TSport.Api.csproj|solutionrelative:tsport.api\\middlewares\\globalexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00010E8F-1305-452D-BCD0-05E973CD348D}|TSport.Api\\TSport.Api.csproj|D:\\github\\TSport_v2\\TSportApi\\tsport.api\\extensions\\iservicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00010E8F-1305-452D-BCD0-05E973CD348D}|TSport.Api\\TSport.Api.csproj|solutionrelative:tsport.api\\extensions\\iservicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00010E8F-1305-452D-BCD0-05E973CD348D}|TSport.Api\\TSport.Api.csproj|D:\\github\\TSport_v2\\TSportApi\\tsport.api\\controllers\\shirtscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00010E8F-1305-452D-BCD0-05E973CD348D}|TSport.Api\\TSport.Api.csproj|solutionrelative:tsport.api\\controllers\\shirtscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00010E8F-1305-452D-BCD0-05E973CD348D}|TSport.Api\\TSport.Api.csproj|D:\\github\\TSport_v2\\TSportApi\\tsport.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00010E8F-1305-452D-BCD0-05E973CD348D}|TSport.Api\\TSport.Api.csproj|solutionrelative:tsport.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{036EFBA7-CAF7-4A69-9B7C-AC6D10B836F5}|TSport.Api.BusinessLogic\\TSport.Api.BusinessLogic.csproj|D:\\github\\TSport_v2\\TSportApi\\tsport.api.businesslogic\\interfaces\\ishirtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{036EFBA7-CAF7-4A69-9B7C-AC6D10B836F5}|TSport.Api.BusinessLogic\\TSport.Api.BusinessLogic.csproj|solutionrelative:tsport.api.businesslogic\\interfaces\\ishirtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{036EFBA7-CAF7-4A69-9B7C-AC6D10B836F5}|TSport.Api.BusinessLogic\\TSport.Api.BusinessLogic.csproj|D:\\github\\TSport_v2\\TSportApi\\tsport.api.businesslogic\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{036EFBA7-CAF7-4A69-9B7C-AC6D10B836F5}|TSport.Api.BusinessLogic\\TSport.Api.BusinessLogic.csproj|solutionrelative:tsport.api.businesslogic\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{036EFBA7-CAF7-4A69-9B7C-AC6D10B836F5}|TSport.Api.BusinessLogic\\TSport.Api.BusinessLogic.csproj|D:\\github\\TSport_v2\\TSportApi\\tsport.api.businesslogic\\servicefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{036EFBA7-CAF7-4A69-9B7C-AC6D10B836F5}|TSport.Api.BusinessLogic\\TSport.Api.BusinessLogic.csproj|solutionrelative:tsport.api.businesslogic\\servicefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DD0EF8-0E1A-4D5D-96A1-AC72550CB532}|TSport.Api.DataAccess\\TSport.Api.DataAccess.csproj|D:\\github\\TSport_v2\\TSportApi\\tsport.api.dataaccess\\models\\season.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3DD0EF8-0E1A-4D5D-96A1-AC72550CB532}|TSport.Api.DataAccess\\TSport.Api.DataAccess.csproj|solutionrelative:tsport.api.dataaccess\\models\\season.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DD0EF8-0E1A-4D5D-96A1-AC72550CB532}|TSport.Api.DataAccess\\TSport.Api.DataAccess.csproj|D:\\github\\TSport_v2\\TSportApi\\tsport.api.dataaccess\\tsport.api.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D3DD0EF8-0E1A-4D5D-96A1-AC72550CB532}|TSport.Api.DataAccess\\TSport.Api.DataAccess.csproj|solutionrelative:tsport.api.dataaccess\\tsport.api.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DD0EF8-0E1A-4D5D-96A1-AC72550CB532}|TSport.Api.DataAccess\\TSport.Api.DataAccess.csproj|D:\\github\\TSport_v2\\TSportApi\\tsport.api.dataaccess\\dtos\\auth\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3DD0EF8-0E1A-4D5D-96A1-AC72550CB532}|TSport.Api.DataAccess\\TSport.Api.DataAccess.csproj|solutionrelative:tsport.api.dataaccess\\dtos\\auth\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DD0EF8-0E1A-4D5D-96A1-AC72550CB532}|TSport.Api.DataAccess\\TSport.Api.DataAccess.csproj|D:\\github\\TSport_v2\\TSportApi\\tsport.api.dataaccess\\dtos\\auth\\getauthtokensdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3DD0EF8-0E1A-4D5D-96A1-AC72550CB532}|TSport.Api.DataAccess\\TSport.Api.DataAccess.csproj|solutionrelative:tsport.api.dataaccess\\dtos\\auth\\getauthtokensdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DD0EF8-0E1A-4D5D-96A1-AC72550CB532}|TSport.Api.DataAccess\\TSport.Api.DataAccess.csproj|D:\\github\\TSport_v2\\TSportApi\\tsport.api.dataaccess\\dtos\\shirts\\getshirtdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3DD0EF8-0E1A-4D5D-96A1-AC72550CB532}|TSport.Api.DataAccess\\TSport.Api.DataAccess.csproj|solutionrelative:tsport.api.dataaccess\\dtos\\shirts\\getshirtdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "D:\\github\\TSport_v2\\TSportApi\\TSport.Api.DataAccess\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "TSport.Api.DataAccess\\Repositories\\OrderRepository.cs",
+              "ToolTip": "D:\\github\\TSport_v2\\TSportApi\\TSport.Api.DataAccess\\Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "TSport.Api.DataAccess\\Repositories\\OrderRepository.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwBwAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T06:18:15.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "D:\\github\\TSport_v2\\TSportApi\\TSport.Api.DataAccess\\Interfaces\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "TSport.Api.DataAccess\\Interfaces\\IOrderRepository.cs",
+              "ToolTip": "D:\\github\\TSport_v2\\TSportApi\\TSport.Api.DataAccess\\Interfaces\\IOrderRepository.cs",
+              "RelativeToolTip": "TSport.Api.DataAccess\\Interfaces\\IOrderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T07:50:02.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\github\\TSport_v2\\TSportApi\\TSport.Api.DataAccess\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "TSport.Api.DataAccess\\Models\\Order.cs",
+              "ToolTip": "D:\\github\\TSport_v2\\TSportApi\\TSport.Api.DataAccess\\Models\\Order.cs",
+              "RelativeToolTip": "TSport.Api.DataAccess\\Models\\Order.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T06:14:04.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "D:\\github\\TSport_v2\\TSportApi\\TSport.Api.DataAccess\\Interfaces\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "TSport.Api.DataAccess\\Interfaces\\IGenericRepository.cs",
+              "ToolTip": "D:\\github\\TSport_v2\\TSportApi\\TSport.Api.DataAccess\\Interfaces\\IGenericRepository.cs",
+              "RelativeToolTip": "TSport.Api.DataAccess\\Interfaces\\IGenericRepository.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAqwAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T07:49:18.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TSport.Api.http",
+              "DocumentMoniker": "D:\\github\\TSport_v2\\TSportApi\\TSport.Api\\TSport.Api.http",
+              "RelativeDocumentMoniker": "TSport.Api\\TSport.Api.http",
+              "ToolTip": "D:\\github\\TSport_v2\\TSportApi\\TSport.Api\\TSport.Api.http",
+              "RelativeToolTip": "TSport.Api\\TSport.Api.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-05-20T04:12:36.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "D:\\github\\TSport_v2\\TSportApi\\TSport.Api.BusinessLogic\\Interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "TSport.Api.BusinessLogic\\Interfaces\\IAuthService.cs",
+              "ToolTip": "D:\\github\\TSport_v2\\TSportApi\\TSport.Api.BusinessLogic\\Interfaces\\IAuthService.cs",
+              "RelativeToolTip": "TSport.Api.BusinessLogic\\Interfaces\\IAuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T08:06:55.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IServiceFactory.cs",
+              "DocumentMoniker": "D:\\github\\TSport_v2\\TSportApi\\TSport.Api.BusinessLogic\\Interfaces\\IServiceFactory.cs",
+              "RelativeDocumentMoniker": "TSport.Api.BusinessLogic\\Interfaces\\IServiceFactory.cs",
+              "ToolTip": "D:\\github\\TSport_v2\\TSportApi\\TSport.Api.BusinessLogic\\Interfaces\\IServiceFactory.cs",
+              "RelativeToolTip": "TSport.Api.BusinessLogic\\Interfaces\\IServiceFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T07:58:35.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "D:\\github\\TSport_v2\\TSportApi\\TSport.Api.DataAccess\\Models\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "TSport.Api.DataAccess\\Models\\OrderDetail.cs",
+              "ToolTip": "D:\\github\\TSport_v2\\TSportApi\\TSport.Api.DataAccess\\Models\\OrderDetail.cs",
+              "RelativeToolTip": "TSport.Api.DataAccess\\Models\\OrderDetail.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA5wBcAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T06:14:43.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TsportDbContext.cs",
+              "DocumentMoniker": "D:\\github\\TSport_v2\\TSportApi\\TSport.Api.DataAccess\\Contexts\\TsportDbContext.cs",
+              "RelativeDocumentMoniker": "TSport.Api.DataAccess\\Contexts\\TsportDbContext.cs",
+              "ToolTip": "D:\\github\\TSport_v2\\TSportApi\\TSport.Api.DataAccess\\Contexts\\TsportDbContext.cs",
+              "RelativeToolTip": "TSport.Api.DataAccess\\Contexts\\TsportDbContext.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAApwCwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T08:05:47.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetCart.cs",
+              "DocumentMoniker": "D:\\github\\TSport_v2\\TSportApi\\TSport.Api.DataAccess\\DTOs\\Cart\\GetCart.cs",
+              "RelativeDocumentMoniker": "TSport.Api.DataAccess\\DTOs\\Cart\\GetCart.cs",
+              "ToolTip": "D:\\github\\TSport_v2\\TSportApi\\TSport.Api.DataAccess\\DTOs\\Cart\\GetCart.cs",
+              "RelativeToolTip": "TSport.Api.DataAccess\\DTOs\\Cart\\GetCart.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAArwB0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T05:39:29.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IAccountRepository.cs",
+              "DocumentMoniker": "D:\\github\\TSport_v2\\TSportApi\\TSport.Api.DataAccess\\Interfaces\\IAccountRepository.cs",
+              "RelativeDocumentMoniker": "TSport.Api.DataAccess\\Interfaces\\IAccountRepository.cs",
+              "ToolTip": "D:\\github\\TSport_v2\\TSportApi\\TSport.Api.DataAccess\\Interfaces\\IAccountRepository.cs",
+              "RelativeToolTip": "TSport.Api.DataAccess\\Interfaces\\IAccountRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T07:49:22.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ShirtEdition.cs",
+              "DocumentMoniker": "D:\\github\\TSport_v2\\TSportApi\\TSport.Api.DataAccess\\Models\\ShirtEdition.cs",
+              "RelativeDocumentMoniker": "TSport.Api.DataAccess\\Models\\ShirtEdition.cs",
+              "ToolTip": "D:\\github\\TSport_v2\\TSportApi\\TSport.Api.DataAccess\\Models\\ShirtEdition.cs",
+              "RelativeToolTip": "TSport.Api.DataAccess\\Models\\ShirtEdition.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAIwB8AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T15:12:44.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Shirt.cs",
+              "DocumentMoniker": "D:\\github\\TSport_v2\\TSportApi\\TSport.Api.DataAccess\\Models\\Shirt.cs",
+              "RelativeDocumentMoniker": "TSport.Api.DataAccess\\Models\\Shirt.cs",
+              "ToolTip": "D:\\github\\TSport_v2\\TSportApi\\TSport.Api.DataAccess\\Models\\Shirt.cs",
+              "RelativeToolTip": "TSport.Api.DataAccess\\Models\\Shirt.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA1wBcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T15:11:56.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "D:\\github\\TSport_v2\\TSportApi\\TSport.Api.DataAccess\\DTOs\\Auth\\LoginDto.cs",
+              "RelativeDocumentMoniker": "TSport.Api.DataAccess\\DTOs\\Auth\\LoginDto.cs",
+              "ToolTip": "D:\\github\\TSport_v2\\TSportApi\\TSport.Api.DataAccess\\DTOs\\Auth\\LoginDto.cs",
+              "RelativeToolTip": "TSport.Api.DataAccess\\DTOs\\Auth\\LoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T05:39:35.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GetAccountDto.cs",
+              "DocumentMoniker": "D:\\github\\TSport_v2\\TSportApi\\TSport.Api.DataAccess\\DTOs\\Accounts\\GetAccountDto.cs",
+              "RelativeDocumentMoniker": "TSport.Api.DataAccess\\DTOs\\Accounts\\GetAccountDto.cs",
+              "ToolTip": "D:\\github\\TSport_v2\\TSportApi\\TSport.Api.DataAccess\\DTOs\\Accounts\\GetAccountDto.cs",
+              "RelativeToolTip": "TSport.Api.DataAccess\\DTOs\\Accounts\\GetAccountDto.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T09:04:51.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IShirtRepository.cs",
+              "DocumentMoniker": "D:\\github\\TSport_v2\\TSportApi\\TSport.Api.DataAccess\\Interfaces\\IShirtRepository.cs",
+              "RelativeDocumentMoniker": "TSport.Api.DataAccess\\Interfaces\\IShirtRepository.cs",
+              "ToolTip": "D:\\github\\TSport_v2\\TSportApi\\TSport.Api.DataAccess\\Interfaces\\IShirtRepository.cs",
+              "RelativeToolTip": "TSport.Api.DataAccess\\Interfaces\\IShirtRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T07:49:23.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AccountRepositoy.cs",
+              "DocumentMoniker": "D:\\github\\TSport_v2\\TSportApi\\TSport.Api.DataAccess\\Repositories\\AccountRepositoy.cs",
+              "RelativeDocumentMoniker": "TSport.Api.DataAccess\\Repositories\\AccountRepositoy.cs",
+              "ToolTip": "D:\\github\\TSport_v2\\TSportApi\\TSport.Api.DataAccess\\Repositories\\AccountRepositoy.cs",
+              "RelativeToolTip": "TSport.Api.DataAccess\\Repositories\\AccountRepositoy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T06:17:12.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "D:\\github\\TSport_v2\\TSportApi\\TSport.Api.DataAccess\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "TSport.Api.DataAccess\\UnitOfWork.cs",
+              "ToolTip": "D:\\github\\TSport_v2\\TSportApi\\TSport.Api.DataAccess\\UnitOfWork.cs",
+              "RelativeToolTip": "TSport.Api.DataAccess\\UnitOfWork.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBcAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T04:25:25.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "D:\\github\\TSport_v2\\TSportApi\\TSport.Api.DataAccess\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "TSport.Api.DataAccess\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "D:\\github\\TSport_v2\\TSportApi\\TSport.Api.DataAccess\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "TSport.Api.DataAccess\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T07:49:25.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\github\\TSport_v2\\TSportApi\\TSport.Api.BusinessLogic\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "TSport.Api.BusinessLogic\\Services\\AuthService.cs",
+              "ToolTip": "D:\\github\\TSport_v2\\TSportApi\\TSport.Api.BusinessLogic\\Services\\AuthService.cs",
+              "RelativeToolTip": "TSport.Api.BusinessLogic\\Services\\AuthService.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAkwE4AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T08:06:12.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IServiceCollectionExtensions.cs",
+              "DocumentMoniker": "D:\\github\\TSport_v2\\TSportApi\\TSport.Api.BusinessLogic\\Extensions\\IServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "TSport.Api.BusinessLogic\\Extensions\\IServiceCollectionExtensions.cs",
+              "ToolTip": "D:\\github\\TSport_v2\\TSportApi\\TSport.Api.BusinessLogic\\Extensions\\IServiceCollectionExtensions.cs",
+              "RelativeToolTip": "TSport.Api.BusinessLogic\\Extensions\\IServiceCollectionExtensions.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAYwBQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T07:58:29.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\github\\TSport_v2\\TSportApi\\TSport.Api\\Program.cs",
+              "RelativeDocumentMoniker": "TSport.Api\\Program.cs",
+              "ToolTip": "D:\\github\\TSport_v2\\TSportApi\\TSport.Api\\Program.cs",
+              "RelativeToolTip": "TSport.Api\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAowB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T04:12:12.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ShirtRepository.cs",
+              "DocumentMoniker": "D:\\github\\TSport_v2\\TSportApi\\TSport.Api.DataAccess\\Repositories\\ShirtRepository.cs",
+              "RelativeDocumentMoniker": "TSport.Api.DataAccess\\Repositories\\ShirtRepository.cs",
+              "ToolTip": "D:\\github\\TSport_v2\\TSportApi\\TSport.Api.DataAccess\\Repositories\\ShirtRepository.cs",
+              "RelativeToolTip": "TSport.Api.DataAccess\\Repositories\\ShirtRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T06:17:26.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "D:\\github\\TSport_v2\\TSportApi\\TSport.Api.DataAccess\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "TSport.Api.DataAccess\\Repositories\\GenericRepository.cs",
+              "ToolTip": "D:\\github\\TSport_v2\\TSportApi\\TSport.Api.DataAccess\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "TSport.Api.DataAccess\\Repositories\\GenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T06:17:17.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IServiceCollectionExtensions.cs",
+              "DocumentMoniker": "D:\\github\\TSport_v2\\TSportApi\\TSport.Api.DataAccess\\Extensions\\IServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "TSport.Api.DataAccess\\Extensions\\IServiceCollectionExtensions.cs",
+              "ToolTip": "D:\\github\\TSport_v2\\TSportApi\\TSport.Api.DataAccess\\Extensions\\IServiceCollectionExtensions.cs",
+              "RelativeToolTip": "TSport.Api.DataAccess\\Extensions\\IServiceCollectionExtensions.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAtwBsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T06:11:16.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ShirtService.cs",
+              "DocumentMoniker": "D:\\github\\TSport_v2\\TSportApi\\TSport.Api.BusinessLogic\\Services\\ShirtService.cs",
+              "RelativeDocumentMoniker": "TSport.Api.BusinessLogic\\Services\\ShirtService.cs",
+              "ToolTip": "D:\\github\\TSport_v2\\TSportApi\\TSport.Api.BusinessLogic\\Services\\ShirtService.cs",
+              "RelativeToolTip": "TSport.Api.BusinessLogic\\Services\\ShirtService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T04:43:52.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "D:\\github\\TSport_v2\\TSportApi\\TSport.Api.BusinessLogic\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "TSport.Api.BusinessLogic\\Services\\TokenService.cs",
+              "ToolTip": "D:\\github\\TSport_v2\\TSportApi\\TSport.Api.BusinessLogic\\Services\\TokenService.cs",
+              "RelativeToolTip": "TSport.Api.BusinessLogic\\Services\\TokenService.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T08:06:00.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "GlobalExceptionMiddleware.cs",
+              "DocumentMoniker": "D:\\github\\TSport_v2\\TSportApi\\TSport.Api\\Middlewares\\GlobalExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "TSport.Api\\Middlewares\\GlobalExceptionMiddleware.cs",
+              "ToolTip": "D:\\github\\TSport_v2\\TSportApi\\TSport.Api\\Middlewares\\GlobalExceptionMiddleware.cs",
+              "RelativeToolTip": "TSport.Api\\Middlewares\\GlobalExceptionMiddleware.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T04:12:08.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IServiceCollectionExtensions.cs",
+              "DocumentMoniker": "D:\\github\\TSport_v2\\TSportApi\\TSport.Api\\Extensions\\IServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "TSport.Api\\Extensions\\IServiceCollectionExtensions.cs",
+              "ToolTip": "D:\\github\\TSport_v2\\TSportApi\\TSport.Api\\Extensions\\IServiceCollectionExtensions.cs",
+              "RelativeToolTip": "TSport.Api\\Extensions\\IServiceCollectionExtensions.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAowCUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T04:11:59.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ShirtsController.cs",
+              "DocumentMoniker": "D:\\github\\TSport_v2\\TSportApi\\TSport.Api\\Controllers\\ShirtsController.cs",
+              "RelativeDocumentMoniker": "TSport.Api\\Controllers\\ShirtsController.cs",
+              "ToolTip": "D:\\github\\TSport_v2\\TSportApi\\TSport.Api\\Controllers\\ShirtsController.cs",
+              "RelativeToolTip": "TSport.Api\\Controllers\\ShirtsController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T08:13:11.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\github\\TSport_v2\\TSportApi\\TSport.Api\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "TSport.Api\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\github\\TSport_v2\\TSportApi\\TSport.Api\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "TSport.Api\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAAAA4AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T05:37:31.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IShirtService.cs",
+              "DocumentMoniker": "D:\\github\\TSport_v2\\TSportApi\\TSport.Api.BusinessLogic\\Interfaces\\IShirtService.cs",
+              "RelativeDocumentMoniker": "TSport.Api.BusinessLogic\\Interfaces\\IShirtService.cs",
+              "ToolTip": "D:\\github\\TSport_v2\\TSportApi\\TSport.Api.BusinessLogic\\Interfaces\\IShirtService.cs",
+              "RelativeToolTip": "TSport.Api.BusinessLogic\\Interfaces\\IShirtService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T07:58:36.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ITokenService.cs",
+              "DocumentMoniker": "D:\\github\\TSport_v2\\TSportApi\\TSport.Api.BusinessLogic\\Interfaces\\ITokenService.cs",
+              "RelativeDocumentMoniker": "TSport.Api.BusinessLogic\\Interfaces\\ITokenService.cs",
+              "ToolTip": "D:\\github\\TSport_v2\\TSportApi\\TSport.Api.BusinessLogic\\Interfaces\\ITokenService.cs",
+              "RelativeToolTip": "TSport.Api.BusinessLogic\\Interfaces\\ITokenService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T07:58:37.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ServiceFactory.cs",
+              "DocumentMoniker": "D:\\github\\TSport_v2\\TSportApi\\TSport.Api.BusinessLogic\\ServiceFactory.cs",
+              "RelativeDocumentMoniker": "TSport.Api.BusinessLogic\\ServiceFactory.cs",
+              "ToolTip": "D:\\github\\TSport_v2\\TSportApi\\TSport.Api.BusinessLogic\\ServiceFactory.cs",
+              "RelativeToolTip": "TSport.Api.BusinessLogic\\ServiceFactory.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAmwCsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T08:06:01.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Season.cs",
+              "DocumentMoniker": "D:\\github\\TSport_v2\\TSportApi\\TSport.Api.DataAccess\\Models\\Season.cs",
+              "RelativeDocumentMoniker": "TSport.Api.DataAccess\\Models\\Season.cs",
+              "ToolTip": "D:\\github\\TSport_v2\\TSportApi\\TSport.Api.DataAccess\\Models\\Season.cs",
+              "RelativeToolTip": "TSport.Api.DataAccess\\Models\\Season.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T08:13:37.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "TSport.Api.DataAccess",
+              "DocumentMoniker": "D:\\github\\TSport_v2\\TSportApi\\TSport.Api.DataAccess\\TSport.Api.DataAccess.csproj",
+              "RelativeDocumentMoniker": "TSport.Api.DataAccess\\TSport.Api.DataAccess.csproj",
+              "ToolTip": "D:\\github\\TSport_v2\\TSportApi\\TSport.Api.DataAccess\\TSport.Api.DataAccess.csproj",
+              "RelativeToolTip": "TSport.Api.DataAccess\\TSport.Api.DataAccess.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-19T08:08:13.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "GetAuthTokensDto.cs",
+              "DocumentMoniker": "D:\\github\\TSport_v2\\TSportApi\\TSport.Api.DataAccess\\DTOs\\Auth\\GetAuthTokensDto.cs",
+              "RelativeDocumentMoniker": "TSport.Api.DataAccess\\DTOs\\Auth\\GetAuthTokensDto.cs",
+              "ToolTip": "D:\\github\\TSport_v2\\TSportApi\\TSport.Api.DataAccess\\DTOs\\Auth\\GetAuthTokensDto.cs",
+              "RelativeToolTip": "TSport.Api.DataAccess\\DTOs\\Auth\\GetAuthTokensDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T08:05:40.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "D:\\github\\TSport_v2\\TSportApi\\TSport.Api.DataAccess\\DTOs\\Auth\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "TSport.Api.DataAccess\\DTOs\\Auth\\RegisterDto.cs",
+              "ToolTip": "D:\\github\\TSport_v2\\TSportApi\\TSport.Api.DataAccess\\DTOs\\Auth\\RegisterDto.cs",
+              "RelativeToolTip": "TSport.Api.DataAccess\\DTOs\\Auth\\RegisterDto.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T08:05:40.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "GetShirtDto.cs",
+              "DocumentMoniker": "D:\\github\\TSport_v2\\TSportApi\\TSport.Api.DataAccess\\DTOs\\Shirts\\GetShirtDto.cs",
+              "RelativeDocumentMoniker": "TSport.Api.DataAccess\\DTOs\\Shirts\\GetShirtDto.cs",
+              "ToolTip": "D:\\github\\TSport_v2\\TSportApi\\TSport.Api.DataAccess\\DTOs\\Shirts\\GetShirtDto.cs",
+              "RelativeToolTip": "TSport.Api.DataAccess\\DTOs\\Shirts\\GetShirtDto.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T05:38:24.45Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1816,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
